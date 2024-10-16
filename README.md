@@ -1,15 +1,10 @@
-# Homework 1 - Hadoop MapReduce WordCount (CS 6240)
+Hadoop Map Reduce WordCount
 
 This project implements a Word Count program using Hadoop MapReduce. The program processes a text dataset and counts the frequency of each word in the input. The project also covers various deployment scenarios, including running the MapReduce job locally, in a pseudo-distributed Hadoop cluster, and on AWS EMR (Elastic MapReduce). This `README.md` provides detailed instructions for setting up the required environment, executing the program in different modes, and using AWS for distributed processing.
 
 Author
 -----------
-- Satyam Shrivastava (Sep 2024)
-
-#### Previous authors of Original Repository:
-- Joe Sackett (2018)
-- Updated by Nikos Tziavelis (2023)
-- Updated by Mirek Riedewald (2024)
+- Satyam Shrivastava
 
 Installation
 ------------
@@ -72,7 +67,7 @@ Environment
 
 Execution
 ---------
-Following are the general steps of execution used for implementing the project and answer the questions in the HW1 report:
+Following are the general steps of execution used for implementing the project:
 
 1) Clone the project's GitHub repository or unzip the project files into Visual Studio Code (or any preferred IDE).
 
