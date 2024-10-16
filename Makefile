@@ -6,8 +6,8 @@ hadoop.root=/usr/local/hadoop-3.3.5
 jar.name=mr-demo-1.0.jar
 jar.path=target/${jar.name}
 job.name=wc.WordCount
-local.input=input/hhg_Small.txt
-local.output=output_Small
+local.input=input/hhg.txt
+local.output=output
 local.awslog=awslog
 # Pseudo-Cluster Execution
 hdfs.user.name=joe
